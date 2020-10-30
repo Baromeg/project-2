@@ -245,13 +245,13 @@ if (!heroes[1]) {
 
 
 ## Screenshots
-![Homepage](/screenshots/Homepage.png)
+![Homepage](/Screenshots/Homepage.png)
 <img src="./screenshots/Homepage.png" width="400" />
-![Heroes](/screenshots/Heroes.png)
+![Heroes](/Screenshots/Heroes.png)
 <img src="./screenshots/Heroes.png" width="400" />
-![Hero](/screenshots/Hero.png)
+![Hero](/Screenshots/Hero.png)
 <img src="./screenshots/Hero.png" width="400" />
-![Loading](/screenshots/Loading.png)
+![Loading](/Screenshots/Loading.png)
 <img src="./screenshots/Loading.png" width="400" />
 
 
