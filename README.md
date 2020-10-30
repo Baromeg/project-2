@@ -245,13 +245,13 @@ if (!heroes[1]) {
 
 
 ## Screenshots
-![Game layout](/screenshots/Homepage.png)
+![Homepage](/screenshots/Homepage.png)
 <img src="./screenshots/Homepage.png" width="400" />
-![Game layout](/screenshots/Heroes.png)
+![Heroes](/screenshots/Heroes.png)
 <img src="./screenshots/Heroes.png" width="400" />
-![Game layout](/screenshots/Hero.png)
+![Hero](/screenshots/Hero.png)
 <img src="./screenshots/Hero.png" width="400" />
-![Game layout](/screenshots/Loading.png)
+![Loading](/screenshots/Loading.png)
 <img src="./screenshots/Loading.png" width="400" />
 
 
