@@ -3,7 +3,7 @@
 
 ### General Assembly, Software Engineering Immersive
 
-# Super Search
+# Project-2 - Heroes
  
 
 ## Overview
