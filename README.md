@@ -258,6 +258,6 @@ if (!heroes[1]) {
 - Links to more information about the heroes and their comics/movies
 - Navigation within the indivivual hero pages to view or compare other heroes.
 
-
-
+## Contributors
+- Dec Burns
 
