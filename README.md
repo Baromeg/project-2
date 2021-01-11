@@ -258,6 +258,11 @@ if (!heroes[1]) {
 - Links to more information about the heroes and their comics/movies
 - Navigation within the indivivual hero pages to view or compare other heroes.
 
+
+## Lessons learned
+- In such a short time, good communication and mutual support is key to overcome individual challenges.
+- Finding a well structure and complete API will guarantee more time to enhance the features of the application.
+
 ## Contributors
 - [Dec Burns](https://github.com/dec1992)
 
