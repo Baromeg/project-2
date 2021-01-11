@@ -259,5 +259,5 @@ if (!heroes[1]) {
 - Navigation within the indivivual hero pages to view or compare other heroes.
 
 ## Contributors
-- Dec Burns
+- [Dec Burns] (https://github.com/dec1992)
 
