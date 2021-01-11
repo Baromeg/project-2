@@ -11,7 +11,7 @@
 This is the second project of the software engineering immersive course at GA London. The assignment was to create a react-based web app to be rendered in the browser, using using react along with APIs. The project was to be completed **in pairs** within **48 hours**.
 
 
-You can launch the app on GitHub pages [here](https://baromeg.github.io/project-2/), or find the GitHub repo [here](https://github.com/baromeg/project-2).
+Find it here! --> [Heroes](https://baromeg.github.io/project-2/)
 
 ## Brief
 
@@ -34,6 +34,7 @@ Create an app that:
 - APIs
 - Routers
 - Axios
+- API’s ( [Superhero-api](https://akabab.github.io/superhero-api/api/), [ComicVine-api](https://comicvine.gamespot.com/api/))
 - Pure React Carousel
 - Git and GitHub
 - Adobe Photoshop
