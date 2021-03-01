@@ -39,7 +39,7 @@ const Home = () => {
   return (
     <section className="hero is-medium-with-navbar is-success">
       <div className="hero-body">
-        <div className="container">
+        <div className="container slider">
           <CarouselProvider
             naturalSlideWidth={100}
             naturalSlideHeight={150}
@@ -57,7 +57,7 @@ const Home = () => {
               </div>
             </nav>
            
-            <Slider>
+            <Slider >
               {shuffle().map((hero, index) => {
                 return <section key={index}>
                   <Slide>

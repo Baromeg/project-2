@@ -15,7 +15,9 @@
   height: 80px;
   margin: 0;
 }
-
+.slider {
+  width: 52rem;
+}
 .levelButton {
   height: 10px;
 }
@@ -120,7 +122,7 @@ div.section {
   .levelButton {
     display: none;
   }
- 
+
   .heroGif {
     padding-top: 20px;
     margin-left: 80px;
@@ -133,5 +135,4 @@ div.section {
   .buttons {
     padding-top: 20px;
   }
-
 }
